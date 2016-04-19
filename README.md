@@ -1,3 +1,3 @@
 3D models of Erle-Copter.
 
-To be used under CC-SA-NC.
+Commercial use not allowed. GPLv3 for non-commercial purposes.
